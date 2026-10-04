@@ -77,8 +77,8 @@ Built for the **Class 12 Informatics Practices (CBSE)** board practical project.
 
 1. **Clone the repository**
    ```bash
-   git clone <(https://github.com/entropy108/game-analyzer)>
-   cd <your-repo-folder>
+   git clone https://github.com/entropy108/game-analyzer
+ 
    ```
 
 2. **Install dependencies**
@@ -106,10 +106,6 @@ Enter budget (INR) : 500
 → Top 10 highest-rated Action games under ₹500 are displayed
 ```
 
-> Genre names must match the ones present in the dataset.
-
----
-
 ## 🧠 How the Recommender Works
 
 1. Load the dataset into a DataFrame.
@@ -136,7 +132,7 @@ Enter budget (INR) : 500
 
 - **Dataset:** [Steam Store Games Dataset](https://www.kaggle.com/) on Kaggle
 - **Development:** Team project for the Class 12 IP practicals
-  - Team members: *add names here*
+  - Team members: Arnav Raj, Ayush Kumar, Rishin Gaur, Abhay Shukla
 
 ---
 
