@@ -61,7 +61,7 @@ Built for the **Class 12 Informatics Practices (CBSE)** board practical project.
 .
 ├── main.py            # Menu-driven program (entry point)
 ├── steam_clean.csv    # Cleaned Steam games dataset
-├── screenshots/       # Images used in this README
+├── screenshots/       
 └── README.md
 ```
 
@@ -77,7 +77,7 @@ Built for the **Class 12 Informatics Practices (CBSE)** board practical project.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/entropy108/game-analyzer)>
    cd <your-repo-folder>
    ```
 
