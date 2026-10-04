@@ -41,9 +41,9 @@ Built for the **Class 12 Informatics Practices (CBSE)** board practical project.
 
 | Price Analysis | Market Share |
 |---|---|
-| ![Price chart](screenshots/price_analysis.png) | ![Pie chart](screenshots/market_share.png) |
+| ![Price chart](screenshots/1.png) | ![Pie chart](screenshots/2.png) |
 
-![Recommender output](screenshots/recommender.png)
+![Recommender output](screenshots/3.png)
 
 ---
 
